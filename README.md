@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaditya-Thakur
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently improving my knowledge about cyber security and digital forensics
+- 🌱 I’m improving my knowledge about cyber security and digital forensics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - https://www.linkedin.com/in/aaditya-thakur-114b34251/
 
